@@ -1,6 +1,6 @@
 # House_Price_Predicition
 
-- [LinkedIn Post]()
+- [LinkedIn Post](https://www.linkedin.com/posts/devanshi-nigam_internship-bharatintern-machinelearning-activity-7116517735546650626-IsWi?utm_source=share&utm_medium=member_desktop)
 
 ![House Data Visualisation](https://github.com/Devanshi1206/House_Price_Predicition/blob/main/House.png)
 
