@@ -24,7 +24,7 @@ This Notebook shows:
 
 ## Data Analysis:
 
-I used Supervised Machine learning Technique Logistic Regression to do the prediction of the house price
+- I used Supervised Machine learning Technique Logistic Regression to do the prediction of the house price
 
 So, I used the Linear regressor to predict all the prices with an accuracy of 88.42%.
 
